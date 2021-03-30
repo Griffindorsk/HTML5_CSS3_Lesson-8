@@ -127,12 +127,6 @@ a {
     background-color: #091f50;
     color: #d2daeb;
 }
-/* .menu_top a:hover, .menu_top_vert a:hover {
-    background-color: #091f50;
-    color: #d2daeb;
-    padding: 0 1rem;
-    margin-right: 1rem;
-} */
 
 .menu_top a:last-of-type {
     margin-right: 0;
